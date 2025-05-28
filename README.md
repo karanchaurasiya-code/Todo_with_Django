@@ -16,7 +16,7 @@ A simple and elegant Todo List web application built with **Django**. Users can 
 
 ## 🖼️ Screenshot
 
-> *(Add a screenshot of your app here, or use `![App Screenshot](path/to/screenshot.png)`)*
+> *(Add a screenshot of your app here, or use [App Screenshot](To-do_with_django\todo\static\css\image\Screenshot (24).png))*
   
 ---
 
