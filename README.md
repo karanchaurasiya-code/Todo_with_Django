@@ -16,14 +16,16 @@ A simple and elegant Todo List web application built with **Django**. Users can 
 
 ## 🖼️ Screenshot
 
-> *(Add a screenshot of your app here, or use [App Screenshot](To-do_with_django\todo\static\css\image\Screenshot (24).png))*
+## 🖼️ Screenshot
+
+![Screenshot 25](https://github.com/karanchaurasiya-code/Todo_with_Django/blob/main/todo/static/css/image/Screenshot%20(25).png?raw=true)
+![Screenshot 26](https://github.com/karanchaurasiya-code/Todo_with_Django/blob/main/todo/static/css/image/Screenshot%20(26).png?raw=true)
+![Screenshot 24](https://github.com/karanchaurasiya-code/Todo_with_Django/blob/main/todo/static/css/image/Screenshot%20(24).png?raw=true)
+
+
   
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/django-todo-list.git
-cd django-todo-list
